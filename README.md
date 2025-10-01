@@ -11,7 +11,7 @@ This Discord bot provides real-time stock market monitoring, automated trading s
 - Background tasks for continuous monitoring and alerts
 
 ## Built With
-- Python 3.
+- [Python 3.13](https://www.python.org/downloads/release/python-3130/)
 - [discord.py](https://discordpy.readthedocs.io/)
 - [yfinance](https://pypi.org/project/yfinance/)
 - [Pandas](https://pandas.pydata.org/)
