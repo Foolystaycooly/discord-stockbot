@@ -31,7 +31,7 @@ This Discord bot provides real-time stock market monitoring, automated trading s
 
 4. Run the bot
    ```bash
-    python bot.py
+    python discord_stock_bot.py
 
 5. Commands
 
