@@ -1,0 +1,9 @@
+
+discord.py
+yfinance
+pandas
+matplotlib
+Pillow
+feedparser
+requests
+pytz
