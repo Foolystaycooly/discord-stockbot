@@ -35,7 +35,7 @@ This Discord bot provides real-time stock market monitoring, automated trading s
 
 5. Commands
 
--!add_stock <TICKER> – Add a stock to monitor
--!remove_stock <TICKER> – Remove a stock from monitoring
--!list_stocks – List all monitored stocks
--!dashboard – Display stock charts with signals
+- !add_stock <TICKER> – Add a stock to monitor
+- !remove_stock <TICKER> – Remove a stock from monitoring
+- !list_stocks – List all monitored stocks
+- !dashboard – Display stock charts with signals
