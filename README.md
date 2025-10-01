@@ -27,13 +27,17 @@ This Discord bot provides real-time stock market monitoring, automated trading s
    ```bash
       pip install -r requirements.txt
 
-3. Add your Discord bot token in bot.py
+3. Add your Discord bot token in discord_stock_ot.py
 
-4. Run the bot
+5. Call the correct path
+    ```bash
+    cd C:\Users\YourUsername\stock_bot
+
+7. Run the bot
    ```bash
     python discord_stock_bot.py
 
-5. Commands
+8. Commands
 
 - !add_stock <TICKER> – Add a stock to monitor
 - !remove_stock <TICKER> – Remove a stock from monitoring
