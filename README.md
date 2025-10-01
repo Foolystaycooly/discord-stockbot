@@ -11,7 +11,7 @@ This Discord bot provides real-time stock market monitoring, automated trading s
 - Background tasks for continuous monitoring and alerts
 
 ## Built With
-- Python 3.x
+- Python 3.
 - [discord.py](https://discordpy.readthedocs.io/)
 - [yfinance](https://pypi.org/project/yfinance/)
 - [Pandas](https://pandas.pydata.org/)
@@ -22,3 +22,20 @@ This Discord bot provides real-time stock market monitoring, automated trading s
 1. Clone the repository
    ```bash
    git clone https://github.com/foolystaycooly/discord-stockbot.git
+   
+2. Install dependencies
+   ```bash
+      pip install -r requirements.txt
+
+3. Add your Discord bot token in bot.py
+
+4. Run the bot
+   ```bash
+    python bot.py
+
+5. Commands
+
+-!add_stock <TICKER> – Add a stock to monitor
+-!remove_stock <TICKER> – Remove a stock from monitoring
+-!list_stocks – List all monitored stocks
+-!dashboard – Display stock charts with signals
